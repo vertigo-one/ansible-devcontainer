@@ -1,0 +1,9 @@
+---
+# https://docs.ansible.com/ansible/5/user_guide/collections_using.html#install-multiple-collections-with-a-requirements-file
+#roles:
+  # Install needed roles
+  #- name: geerlingguy.java
+
+collections:
+  # Install needed collections
+  - name: venafi.machine_identity

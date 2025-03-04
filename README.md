@@ -1,2 +1,2 @@
 # ansible-devcontainer
-A devcontainer for working with Ansible
+A devcontainer for working with Ansible and the Venafi Ansible Collection.
